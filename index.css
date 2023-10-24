@@ -1,0 +1,119 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 375px;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.user-content{
+    border-bottom: 2px solid #C6C6C6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.logo{
+    width: 150px;
+    margin-left: 20px;
+}
+
+.user-avatar {   
+     width: 40px;
+    border-radius: 500px; 
+    margin-right: 20px;
+}
+
+.post-content,
+.post-content-2{
+    display: flex;
+}
+
+.avatar-vangogh, 
+.avatar-vangogh-2, 
+.avatar-vangogh-3 {
+    width: 50px;
+    border-radius: 500px; 
+    margin-right: 20px;
+    height: 50px;
+    margin-left: 5px;
+}
+
+h3{
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-family: 'Source Sans Pro';
+}
+
+p{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.post-vangogh, 
+.post-vangogh-2, 
+.post-vangogh-3{
+   width: 100%;
+}
+
+.heart-share-comment-logos{
+    display: flex;
+}
+
+.icon-heart{
+    width: 20px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.icon-comment{
+    width: 20px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.icon-share{
+    width: 20px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+p{
+     margin-bottom: 10px;
+
+}
+
+.post-info{
+    margin-bottom: 20px;
+    margin: 10px;
+     color: #000000;
+
+}
+
+.comment{
+    font-size: 18px;
+    font-weight: 700px;
+
+}
+
+.like{
+    font-size: 18px;
+    font-weight: 100px;
+}
+.blank-space {
+    border: 20px;
+    padding: 10px 20px;
+    background: whitesmoke;
+}
+
+
+
+
