@@ -1,21 +1,13 @@
-# co76f4f3097d6db054ed1be90
+**Oldagaram 
 
 Quick start:
 
-```
-$ npm install
-$ npm start
-````
+![olda 1](https://github.com/sampleRID/Oldagram-Project/assets/132147692/153eb08c-2d5c-4519-bb16-40cc46e24c76)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+![olda 2](https://github.com/sampleRID/Oldagram-Project/assets/132147692/5dc2804a-1912-4225-918e-e24b4f76ce5d)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![olda 3](https://github.com/sampleRID/Oldagram-Project/assets/132147692/99d57275-1ece-4f99-987f-0ee6340fda65)
+
 
 Happy Coding!
